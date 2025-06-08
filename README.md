@@ -74,4 +74,33 @@ pip install -r requirements.txt
 streamlit run chatbot.py
 ```
 
+# Contributing
+
+Contributions are welcome! If you find issues or have improvements, please:
+
+1. Fork the repository
+
+2. Create a feature branch
+  ```
+   git checkout -b feature-name
+```
+
+3. Commit your changes
+```
+   git commit -m "Added new feature"
+```
+
+4. Push to GitHub
+  ```
+   git push origin feature-name
+```
+5. Submit a pull request 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project in accordance with the terms of the license.
+
+## 1).Dataset
+
+(assets.Picture1.png)
 
