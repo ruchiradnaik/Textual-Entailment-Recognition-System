@@ -103,4 +103,55 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 1).Dataset
 
 ![Dataset](assets/Picture1.png)
+![Dataset2](assets/Picture2.png)
+
+
+## 2). The main model named as Main_model.ipynb:
+
+Embeddings are created here and saved as bert_embeddings_300000.npy.
+
+![](assets/Picture3.png)
+
+
+
+Label mappings are done and saved.
+
+
+![](assets/Picture4.png)
+
+
+
+The MLP Classifier is trained in a loop of 100 epochs.
+
+
+![](assets/Picture5.png)
+![](assets/Picture8.png)
+
+
+We display the accuracy of MLP Classifier.
+
+![](assets/Picture6.png)
+![](assets/Picture9.png)
+
+
+
+## 3). Chatbot.py
+
+
+![](assets/Picture7.py)
+
+
+## 4). Testings
+
+
+Different inputs tested for 
+ENTAILMENT
+CONTRADICTION
+NEUTRAL
+
+![](assets/Picture10.py)
+![](assets/Picture11.py)
+![](assets/Picture12.py)
+
+
 
