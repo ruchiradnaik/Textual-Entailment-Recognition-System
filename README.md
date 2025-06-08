@@ -138,7 +138,7 @@ We display the accuracy of MLP Classifier.
 ## 3). Chatbot.py
 
 
-![](assets/Picture7.py)
+![](assets/Picture7.png)
 
 
 ## 4). Testings
@@ -149,9 +149,9 @@ ENTAILMENT
 CONTRADICTION
 NEUTRAL
 
-![](assets/Picture10.py)
-![](assets/Picture11.py)
-![](assets/Picture12.py)
+![](assets/Picture10.png)
+![](assets/Picture11.png)
+![](assets/Picture12.png)
 
 
 
